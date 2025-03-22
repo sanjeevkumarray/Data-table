@@ -85,6 +85,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔗 **Live Demo:** [https://data-table-mern.netlify.app](https://data-table-mern.netlify.app)  
+
 
 
